@@ -1,0 +1,29 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno virtual de Python
+venv/
+.env
+
+# Archivos de caché y logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Archivos de configuración local
+*.sqlite3
+*.db
+*.ini
+
+# Directorio de medios estáticos y archivos subidos
+media/
+staticfiles/
+
+# Otros archivos y directorios
+*.bak
+*.swp
+*.swo
+node_modules/
